@@ -1,0 +1,5 @@
+@Kopernicus:FOR[GeitoStandalone]
+{
+	%useOnDemand = True
+	%useManualMemoryManagement = True
+}
